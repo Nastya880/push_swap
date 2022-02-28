@@ -1,5 +1,5 @@
 # push_swap
-#Project about algorithms with using concrete operations
+Project about algorithms with using concrete operations
 # MY ERROR: 
 #INPUT MIN AND INPUT MAX.
 # Myscore:

@@ -11,3 +11,5 @@
 - less than 8500: 3
 - less than 10000: 2
 - less than 11500: 1
+
+# Best tester - https://github.com/izenynn/push_swap_tester
